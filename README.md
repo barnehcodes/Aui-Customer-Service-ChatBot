@@ -63,13 +63,13 @@ One of the main sources that are placed very close to the scope of this project 
     - https://www.kaggle.com/datasets/tusharpaul2001/university-chatbot-dataset
 - Baseline:
     - After researching the best base-model that will suit our needs we filtered out the model that we will test out in our environment:
+  
 | **Model** | **Size** | **Resource Usage** | **Performance** | **Status** |
 | --- | --- | --- | --- | --- |
 | **google/flan-t5-base** | 220M parameters | Low (lightweight) | Not highly performant | **Discarded** |
 | **mistralai/Mistral-7B-V0.1** | 7B parameters | High (unable to load) | Strong performance (not tested) | **Discarded (resource limits)** |
 | **gpt-neo-125M** | 125M parameters | Low (lightweight) | Weak performance | **Discarded** |
 | **gpt-neo-1.3B** | 1.3B parameters | Medium (manageable) | Expected best fit (under testing) | **Currently Testing** |
-    
 
 - **Fine-tuning:**
     - now for the part that takes the longest (approximately 13 hours on current resources) ,
