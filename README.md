@@ -177,3 +177,6 @@ https://www.researchgate.net/publication/388428246_A_review_of_university_chatbo
 https://www.kaggle.com/datasets/tusharpaul2001/university-chatbot-dataset
 
 https://huggingface.co/EleutherAI/gpt-neo-1.3B/tree/main
+
+[download pdf rapport Aui_Customer_Service_ChatBot.pdf](https://github.com/user-attachments/files/18812790/45cb2d6e-33e0-4895-bdaf-ca843652bd58_Aui_Customer_Service_ChatBot.pdf)
+
