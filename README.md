@@ -142,6 +142,7 @@ interface.launch()
 ```
 - this code is responsible for the UI part of the project and directly gets “adopted” by the hugging face space once deployed
     - to deploy this we clone/init the hugging face repo, and add the code, then push the changes.
+    - https://huggingface.co/spaces/barnehcodes/test
 - The current  base model used in the space is **google/flan-t5-base** and not **gpt-neo-1.3B** since it’s not yet finished training for fine tuning purposes.
 
 **Key Metrics from Training Output ( from google/flan-t5-base )**
