@@ -48,7 +48,7 @@ The financial cost and the currently on-hand resources poses a challenge in the 
 
 ### Related works
 
-One of the main sources that are placed very close to the scope of this project is the research paper ‘**Building and Evaluating a Chatbot Using a University FAQs Dataset’ ([Said A. Salloum](https://www.researchgate.net/profile/Said-Salloum?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Khaled Shaalan](https://www.researchgate.net/profile/Khaled-Shaalan-2?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Azza Basiouni](https://www.researchgate.net/scientific-contributions/Azza-Basiouni-2287886607?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Ayham Salloum](https://www.researchgate.net/profile/Ayham-Salloum?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Raghad Alfaisal](https://www.researchgate.net/profile/Raghad-Alfaisal?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)),**  from it we can extract other related works where Chatbots were used in academic support, administration, and student engagement:
+One of the main sources that are placed very close to the scope of this project is the research paper ‘**Building and Evaluating a Chatbot Using a University FAQs Dataset’ ([Said A. Salloum](), [Khaled Shaalan], [Azza Basiouni], [Ayham Salloum], [Raghad Alfaisal]),**  from it we can extract other related works where Chatbots were used in academic support, administration, and student engagement:
 
 **Existing University Chatbot Solutions**
 
@@ -81,7 +81,7 @@ One of the main sources that are placed very close to the scope of this project 
         - **Save the Fine-Tuned Model**
             - The trained model and tokenizer are saved for future use.
 
-            ```python
+```python
 from transformers import TrainingArguments, Trainer
 
 # Define training arguments
